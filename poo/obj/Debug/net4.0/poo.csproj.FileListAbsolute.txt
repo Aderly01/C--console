@@ -1,0 +1,11 @@
+C:\Users\2blac\Desktop\projects_C#\poo\obj\Debug\net4.0\poo.csproj.AssemblyReference.cache
+C:\Users\2blac\Desktop\projects_C#\poo\obj\Debug\net4.0\poo.csproj.SuggestedBindingRedirects.cache
+C:\Users\2blac\Desktop\projects_C#\poo\obj\Debug\net4.0\poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2blac\Desktop\projects_C#\poo\obj\Debug\net4.0\poo.AssemblyInfoInputs.cache
+C:\Users\2blac\Desktop\projects_C#\poo\obj\Debug\net4.0\poo.AssemblyInfo.cs
+C:\Users\2blac\Desktop\projects_C#\poo\obj\Debug\net4.0\poo.csproj.CoreCompileInputs.cache
+C:\Users\2blac\Desktop\projects_C#\poo\bin\Debug\net4.0\poo.exe.config
+C:\Users\2blac\Desktop\projects_C#\poo\bin\Debug\net4.0\poo.exe
+C:\Users\2blac\Desktop\projects_C#\poo\bin\Debug\net4.0\poo.pdb
+C:\Users\2blac\Desktop\projects_C#\poo\obj\Debug\net4.0\poo.exe
+C:\Users\2blac\Desktop\projects_C#\poo\obj\Debug\net4.0\poo.pdb
