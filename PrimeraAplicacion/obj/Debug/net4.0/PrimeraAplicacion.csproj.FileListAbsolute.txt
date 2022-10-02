@@ -1,0 +1,11 @@
+C:\Users\2blac\Desktop\projects_C#\PrimeraAplicacion\obj\Debug\net4.0\PrimeraAplicacion.csproj.AssemblyReference.cache
+C:\Users\2blac\Desktop\projects_C#\PrimeraAplicacion\obj\Debug\net4.0\PrimeraAplicacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\2blac\Desktop\projects_C#\PrimeraAplicacion\obj\Debug\net4.0\PrimeraAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2blac\Desktop\projects_C#\PrimeraAplicacion\obj\Debug\net4.0\PrimeraAplicacion.AssemblyInfoInputs.cache
+C:\Users\2blac\Desktop\projects_C#\PrimeraAplicacion\obj\Debug\net4.0\PrimeraAplicacion.AssemblyInfo.cs
+C:\Users\2blac\Desktop\projects_C#\PrimeraAplicacion\obj\Debug\net4.0\PrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\2blac\Desktop\projects_C#\PrimeraAplicacion\bin\Debug\net4.0\PrimeraAplicacion.exe.config
+C:\Users\2blac\Desktop\projects_C#\PrimeraAplicacion\bin\Debug\net4.0\PrimeraAplicacion.exe
+C:\Users\2blac\Desktop\projects_C#\PrimeraAplicacion\bin\Debug\net4.0\PrimeraAplicacion.pdb
+C:\Users\2blac\Desktop\projects_C#\PrimeraAplicacion\obj\Debug\net4.0\PrimeraAplicacion.exe
+C:\Users\2blac\Desktop\projects_C#\PrimeraAplicacion\obj\Debug\net4.0\PrimeraAplicacion.pdb

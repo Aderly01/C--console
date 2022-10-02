@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\2blac\\Desktop\\projects_C#\\PrimeraAplicacion\\PrimeraAplicacion.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\2blac\\Desktop\\projects_C#\\PrimeraAplicacion\\PrimeraAplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\2blac\\Desktop\\projects_C#\\PrimeraAplicacion\\PrimeraAplicacion.csproj",
+        "projectName": "PrimeraAplicacion",
+        "projectPath": "C:\\Users\\2blac\\Desktop\\projects_C#\\PrimeraAplicacion\\PrimeraAplicacion.csproj",
+        "packagesPath": "C:\\Users\\2blac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2blac\\Desktop\\projects_C#\\PrimeraAplicacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\2blac\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "targetAlias": "net4.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net40": {
+          "targetAlias": "net4.0",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
