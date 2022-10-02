@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VhJIkEJY53MytH7wRLfZSy5hhm+J2Mc7bgFWN5bQ7R9Tr/4SMBi5NIEVkxVrfyWhSRNMQnJji64DaFi/Jfa2HQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2blac\\Desktop\\projects_C#\\polimorfismo\\polimorfismo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2blac\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\2blac\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net40\\1.0.2\\microsoft.netframework.referenceassemblies.net40.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

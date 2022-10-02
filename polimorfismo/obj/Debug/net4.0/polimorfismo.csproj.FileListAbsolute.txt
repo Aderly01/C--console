@@ -1,0 +1,11 @@
+C:\Users\2blac\Desktop\projects_C#\polimorfismo\obj\Debug\net4.0\polimorfismo.csproj.AssemblyReference.cache
+C:\Users\2blac\Desktop\projects_C#\polimorfismo\obj\Debug\net4.0\polimorfismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\2blac\Desktop\projects_C#\polimorfismo\obj\Debug\net4.0\polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2blac\Desktop\projects_C#\polimorfismo\obj\Debug\net4.0\polimorfismo.AssemblyInfoInputs.cache
+C:\Users\2blac\Desktop\projects_C#\polimorfismo\obj\Debug\net4.0\polimorfismo.AssemblyInfo.cs
+C:\Users\2blac\Desktop\projects_C#\polimorfismo\obj\Debug\net4.0\polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\2blac\Desktop\projects_C#\polimorfismo\bin\Debug\net4.0\polimorfismo.exe.config
+C:\Users\2blac\Desktop\projects_C#\polimorfismo\bin\Debug\net4.0\polimorfismo.exe
+C:\Users\2blac\Desktop\projects_C#\polimorfismo\bin\Debug\net4.0\polimorfismo.pdb
+C:\Users\2blac\Desktop\projects_C#\polimorfismo\obj\Debug\net4.0\polimorfismo.exe
+C:\Users\2blac\Desktop\projects_C#\polimorfismo\obj\Debug\net4.0\polimorfismo.pdb
